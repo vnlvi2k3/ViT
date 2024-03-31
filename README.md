@@ -1,6 +1,6 @@
-The total architecture is called Vision Transformer (ViT in short). Let’s examine it step by step.
-*Split an image into patches
-*Flatten the patches
+The total architecture is called Vision Transformer (ViT in short). Let’s examine it step by step.\\
+- Split an image into patches
+- Flatten the patches
 *Produce lower-dimensional linear embeddings from the flattened patches
 *Add positional embeddings
 *Feed the sequence as an input to a standard transformer encoder
